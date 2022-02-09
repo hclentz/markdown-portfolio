@@ -1,3 +1,3 @@
-*Bananas
-*Trees
-*Not other monkes
+* Bananas
+* Trees
+* Not other monke
